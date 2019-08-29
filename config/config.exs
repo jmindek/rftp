@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :rctp, key: :value
+#     config :rftp, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:rctp, :key)
+#     Application.get_env(:rftp, :key)
 #
 # You can also configure a 3rd-party app:
 #
